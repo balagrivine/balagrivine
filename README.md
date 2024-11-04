@@ -4,7 +4,7 @@
 
 **Typescripter**
 
-I enjy building backend systems that are scalable, secure, robust and tailored to meet your business needs.
+I enjoy building backend systems that are scalable, secure, robust and tailored to meet your business needs.
 
 Currently churning out quality code and contributing to open-source projects.
 <!---
