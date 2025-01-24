@@ -1,4 +1,4 @@
-Huge fan of distributed computing, learning about distributed kv stores;trying to implement one :) 
+Huge fan of distributed computing, learning about distributed kv stores; trying to implement one :) 
 
 I love contributing to cool open-source projects.
 <!---
